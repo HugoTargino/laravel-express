@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /bootstrap/compiled.php
 .env.*.php
 .env.php
@@ -8,4 +9,9 @@
 Homestead.yaml
 Homestead.json
 >>>>>>> dev-hugo
+=======
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+>>>>>>> c6d77ad5ad013acdbb3d07e58c7668cba359619c
 .env
